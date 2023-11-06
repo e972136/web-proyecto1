@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item img{
+    height: 300px !important;
+    border-radius:  50% !important;
+}
+
+footer{
+    background-color: black !important;
+}
+
+.texto_footer{
+    color: aliceblue;
+    background-color: black
+}
